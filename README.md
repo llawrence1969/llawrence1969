@@ -15,7 +15,7 @@ Connect with me on [LinkedIn](https://linkedin.com/in/lloyd-lawrence-b4633064) t
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Lab](https://github.com/llawrence1969/ActiveDirectoryHomeLab)
 
 <h2>📺 Certifications</h2>
 
