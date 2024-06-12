@@ -1,4 +1,14 @@
-<h1>Hi, I'm Lloyd! <br/><a href="https://github.com/llawrence1969"></a> <a href="https://www.linkedin.com/in/lloyd-lawrence-b4633064/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/llawrence1969"></a></h1>
+<h1>Hi, I'm Lloyd <br/><a href="https://github.com/llawrence1969"></a> <a href="https://www.linkedin.com/in/lloyd-lawrence-b4633064/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/llawrence1969"></a></h1>
+
+
+<h2>About Me:</h2>
+I worked as an IT Support Specialist for a small business with a Data Center that would envy many medium-sized companies from 2008 - 2016.
+I am the sole IT employee and is therefore responsible for all things IT and with an aging infrastructure I am kept busy with a variety of issues all day long. 
+In this my first role, I have performed basic tasks such as onboarding/offboarding employees, issuing Desktops/Laptops, and providing access/permissions to hardware/software necessary for the duties.
+However, I also performed more sophisticated tasks such as repurposing a server as a Promox virtualized environment and installing Wuzah SIEM on Ubuntu LTS.
+The data center previously employed a single server for a single role which for a small business isn't so ideal for maintenance and cost so I used Hyper-V to reduce sixteen servers to five.
+Yes, I got hired to do a basic desktop role and ended up negotiating contracts with various Vendors and finding ways to reduce the budget spent on IT equipment, this business could no longer afford.
+So while some would complain of the additional work and lack of pay, I fully embraced it because of my love for IT.
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
