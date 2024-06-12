@@ -1,14 +1,17 @@
-<h1>Hi, I'm Lloyd <br/><a href="https://github.com/llawrence1969"></a> <a href="https://www.linkedin.com/in/lloyd-lawrence-b4633064/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/llawrence1969"></a></h1>
+<h1>Hi, I'm Lloyd <br/><a href="https://github.com/llawrence1969"></a> <a href="https://www.linkedin.com/in/lloyd-lawrence-b4633064/">Cybersecurity Professional and WGU Student</a>, <a href="https://www.youtube.com/llawrence1969"></a></h1>
 
 
 <h2>About Me:</h2>
-I worked as an IT Support Specialist for a small business with a Data Center that would envy many medium-sized companies from 2008 - 2016.
-I am the sole IT employee and is therefore responsible for all things IT and with an aging infrastructure I am kept busy with a variety of issues all day long. 
-In this my first role, I have performed basic tasks such as onboarding/offboarding employees, issuing Desktops/Laptops, and providing access/permissions to hardware/software necessary for the duties.
-However, I also performed more sophisticated tasks such as repurposing a server as a Promox virtualized environment and installing Wuzah SIEM on Ubuntu LTS.
-The data center previously employed a single server for a single role which for a small business isn't so ideal for maintenance and cost so I used Hyper-V to reduce sixteen servers to five.
-Yes, I got hired to do a basic desktop role and ended up negotiating contracts with various Vendors and finding ways to reduce the budget spent on IT equipment, this business could no longer afford.
-So while some would complain of the additional work and lack of pay, I fully embraced it because of my love for IT.
+  Aspiring IT professional with a comprehensive background in cybersecurity, IT support, and strategic problem-solving. Currently pursuing a Bachelor of Science in Information Technology at Western Governors University, with graduation slated for November 2024. Holding an Associate of Science in Cybersecurity from St. Petersburg College, I am equipped with a solid foundation in the field, bolstered by the CompTIA trifecta (A+, Network+, Security+) and AWS Certified Cloud Practitioner certification.
+
+  My journey in IT has been both challenging and rewarding, starting with my role as an IT Support Specialist for a small business. Single-handedly managing the entire IT infrastructure, I addressed a variety of technical issues daily, from onboarding/offboarding employees and issuing desktops/laptops to handling complex tasks such as repurposing servers into a Proxmox virtualized environment and implementing Wazuh SIEM on Ubuntu LTS. These experiences honed my ability to adapt, innovate, and drive efficiency in high-stress environments.
+
+  One of my significant achievements was reducing the number of servers from sixteen to five using Hyper-V, significantly cutting maintenance costs and improving operational efficiency. Additionally, I successfully negotiated vendor contracts, slashing the IT budget by 25% while maintaining top-tier services.
+
+  With a passion for technology and continuous learning, I am also preparing for the Project+ exam and have ambitions to expand my cloud knowledge further and pursue the CISSP certification. My dedication to the field is evident in my proactive approach to problem-solving and my commitment to enhancing both my technical and soft skills.
+
+Connect with me on [LinkedIn](https://linkedin.com/in/lloyd-lawrence-b4633064) to explore more about my journey and professional accomplishments.
+
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
